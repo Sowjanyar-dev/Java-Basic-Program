@@ -1,6 +1,6 @@
 public class ReverseString {
     public static void main(String[] args) {
-        String input = "Java";
+        String input = "Java Programming";
         char[] chars = input.toCharArray();
 
         int left = 0;
